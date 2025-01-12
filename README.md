@@ -44,12 +44,6 @@
 
 ---
 
-### 📝 Recent Projects:
-- **Project 1** - Short description. [Link](#)
-- **Project 2** - Short description. [Link](#)
-- **Project 3** - Short description. [Link](#)
-
----
 
 ### 📫 Reach Me:
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ozdmrysn/)
@@ -57,4 +51,4 @@
 
 ---
 
-**⚡ Fun fact:** I love coding and learning about new technologies! 🚀
+**⚡ Fun fact:** Yarı zamanlı developer, tam zamanlı üzgün. 🚀
