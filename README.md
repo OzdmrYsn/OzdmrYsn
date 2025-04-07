@@ -51,4 +51,4 @@
 
 ---
 
-**⚡ Fun fact:** Yarı zamanlı developer, tam zamanlı üzgün. 🚀
+**⚡ Fun fact:** Yazılımcı olmak istiyorsan bilgisayar kullan :D. 🚀
