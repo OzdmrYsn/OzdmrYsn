@@ -88,20 +88,6 @@ class Gelistirici:
 
 <br/>
 
-
-
-<!-- ═══════════════════════════ PROJELER ═══════════════════════════
-     Öne çıkan projelerini göstermek için aşağıdaki tabloyu doldur
-     ve bu yorum satırlarını (<!-- ve -->) sil.
-
-## 🚀 &nbsp;Öne Çıkan Projeler
-
-| Proje | Açıklama |
-|:--|:--|:--|
-| [**IslandX**]([https://github.com/ozdmrysn/REPO_ADI](https://github.com/OzdmrYsn/IslandX)) | Macbook için Dinamik Ada! |
-
-═══════════════════════════════════════════════════════════════ -->
-
 <!-- ═══════════════════════════ İLETİŞİM ═══════════════════════════ -->
 ## 🤝 &nbsp;İletişime Geç
 
