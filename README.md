@@ -96,10 +96,9 @@ class Gelistirici:
 
 ## 🚀 &nbsp;Öne Çıkan Projeler
 
-| Proje | Açıklama | Teknolojiler |
+| Proje | Açıklama |
 |:--|:--|:--|
-| [**IslandX**]([https://github.com/ozdmrysn/REPO_ADI](https://github.com/OzdmrYsn/IslandX)) | Macbook için Dinamik Ada! | `Django` `PostgreSQL` |
-| [**Proje Adı 2**](https://github.com/ozdmrysn/REPO_ADI_2) | Kısa bir açıklama | `JavaScript` `Bootstrap` |
+| [**IslandX**]([https://github.com/ozdmrysn/REPO_ADI](https://github.com/OzdmrYsn/IslandX)) | Macbook için Dinamik Ada! |
 
 ═══════════════════════════════════════════════════════════════ -->
 
