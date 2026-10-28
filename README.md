@@ -88,13 +88,7 @@ class Gelistirici:
 
 <br/>
 
-## 📈 &nbsp;Katkı Grafiği
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ozdmrysn&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=8E2DE2&point=ffffff" alt="katki grafigi" />
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════ PROJELER ═══════════════════════════
      Öne çıkan projelerini göstermek için aşağıdaki tabloyu doldur
@@ -104,7 +98,7 @@ class Gelistirici:
 
 | Proje | Açıklama | Teknolojiler |
 |:--|:--|:--|
-| [**Proje Adı**](https://github.com/ozdmrysn/REPO_ADI) | Kısa bir açıklama | `Django` `PostgreSQL` |
+| [**IslandX**]([https://github.com/ozdmrysn/REPO_ADI](https://github.com/OzdmrYsn/IslandX)) | Macbook için Dinamik Ada! | `Django` `PostgreSQL` |
 | [**Proje Adı 2**](https://github.com/ozdmrysn/REPO_ADI_2) | Kısa bir açıklama | `JavaScript` `Bootstrap` |
 
 ═══════════════════════════════════════════════════════════════ -->
